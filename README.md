@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://shields.io" alt="Email"></a>
+  <a href="https://linkedin.com/in/simplyincognito"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="mailto:codedynamics24@gmail.com"><img src="https://shields.io" alt="Email"></a>
 </p>
 
 ---
