@@ -1,67 +1,74 @@
-<!-- Profile Header -->
+<!--
+  Minimal dark profile README for Simply-Incognito
+  Refined version: cleaner, sharper, more premium.
+-->
+
 <div align="center">
-  <h1>💻 Simply-Incognito</h1>
-  <p><i>Backend Engineer | Full-Stack Developer | Building scalable systems</i></p>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/simplyincognito)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:codedynamics24@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Simply-Incognito)
+  <h1>Simply-Incognito</h1>
+  <p>
+    <strong>Full-Stack Developer</strong> · <strong>Backend Engineer</strong><br>
+    Building scalable products with TypeScript, Node.js, and modern web systems.
+  </p>
+
+  <p>
+    <a href="https://linkedin.com/in/simplyincognito" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:codedynamics24@gmail.com" target="_blank">
+      <img alt="Email" src="https://img.shields.io/badge/Email-codedynamics24%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/Simply-Incognito" target="_blank">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
-Backend-focused **Full-Stack Software Engineer** with a passion for building robust, scalable systems. I specialize in designing clean APIs, optimizing database architectures, and crafting user-friendly interfaces. Currently balancing academic Computer Science studies with real-world development experience.
+I’m a software engineer focused on building reliable backend systems and polished full-stack experiences. I enjoy turning product ideas into scalable, production-ready applications with clean architecture, thoughtful APIs, and strong user experience.
 
-- 🎓 Computer Science Student
-- 🔧 Specializing in backend systems & distributed architectures
-- 🚀 Building production-grade full-stack applications
-- 📚 Actively learning system design & microservices
-
----
-
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td><code>TypeScript</code> <code>JavaScript</code> <code>Python</code> <code>Java</code> <code>Go</code> <code>C#</code></td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><code>React</code> <code>Vite</code> <code>Tailwind CSS</code> <code>Framer Motion</code></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><code>Node.js</code> <code>Express</code> <code>FastAPI</code> <code>Spring Boot</code> <code>ASP.NET Core</code></td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td><code>MongoDB</code> <code>PostgreSQL</code> <code>Redis</code></td>
-  </tr>
-  <tr>
-    <td><b>DevOps & Tools</b></td>
-    <td><code>Docker</code> <code>AWS</code> <code>Git</code> <code>REST APIs</code> <code>Microservices</code></td>
-  </tr>
-</table>
+- 🎓 Computer Science / Software Engineering student
+- 💻 Backend-first, full-stack by practice
+- 🔧 Interested in scalable systems, APIs, and product engineering
+- 🚀 Open to meaningful collaborations and engineering opportunities
 
 ---
 
-## 🏆 Featured Projects
+## Stack
+
+### Languages
+`TypeScript` `JavaScript` `Python` `Java` `Go` `C#`
+
+### Frontend
+`React` `Vite` `Tailwind CSS` `Framer Motion` `React Router`
+
+### Backend
+`Node.js` `Express` `FastAPI` `Spring Boot` `ASP.NET Core`
+
+### Data & Cloud
+`MongoDB` `PostgreSQL` `Redis` `Docker` `AWS`
+
+### Tools
+`Git` `REST APIs` `Swagger` `JWT` `Zod` `Mongoose`
+
+---
+
+## Featured Projects
 
 | Project | Description | Stack |
-|---------|-------------|-------|
-| **[ITSync](https://github.com/Simply-Incognito/ITSync)** | Platform for Nigerian tertiary students to discover & apply for SIWES/Industrial Training opportunities | `TypeScript` `React` `Express` `MongoDB` `Tailwind` |
-| **[Lumina](https://github.com/Simply-Incognito/Lumina)** | Scalable e-commerce platform with microservices architecture | `Node.js` `Docker` `Microservices` |
-| **[Omnix](https://github.com/Simply-Incognito/Omnix)** | Multi-vendor e-commerce admin dashboard | `React` `Tailwind` `Node.js` |
-| **[MovieFlix 3.0](https://github.com/Simply-Incognito/MovieFlix3.0)** | Backend service for movie reservation system | `Node.js` `Express` `MongoDB` |
-| **[Quick-Chat](https://github.com/Simply-Incognito/Quick-Chat)** | Real-time messaging system | `React` `Node.js` `Express` `MongoDB` |
-| **[LMS System](https://github.com/Simply-Incognito/lms-system)** | Learning management system for students | `MERN Stack` |
+| --- | --- | --- |
+| [ITSync](https://github.com/Simply-Incognito/ITSync) | Platform helping Nigerian students discover and apply for SIWES/industrial training opportunities. | `TypeScript` `React` `Node.js` `MongoDB` `Tailwind` |
+| [Lumina](https://github.com/Simply-Incognito/Lumina) | Scalable e-commerce platform using a microservices-oriented architecture. | `Node.js` `Docker` `Microservices` |
+| [Omnix](https://github.com/Simply-Incognito/Omnix) | Admin dashboard for multi-vendor e-commerce operations. | `React` `Node.js` `Tailwind` |
+| [MovieFlix 3.0](https://github.com/Simply-Incognito/MovieFlix3.0) | Backend service for a movie reservation system. | `Node.js` `Express` `MongoDB` |
+| [Quick-Chat](https://github.com/Simply-Incognito/Quick-Chat) | Real-time messaging app built with modern full-stack tooling. | `React` `Node.js` `Express` `MongoDB` |
+| [LMS System](https://github.com/Simply-Incognito/lms-system) | Learning management system for students. | `MERN` |
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Simply-Incognito&theme=dark&show_icons=true&hide_border=true&count_private=true" />
@@ -70,27 +77,25 @@ Backend-focused **Full-Stack Software Engineer** with a passion for building rob
 
 ---
 
-## 💡 What I'm Currently Doing
+## Currently Building
 
-- 🔍 Deep-diving into system design and distributed systems
-- 📖 Enhancing full-stack TypeScript/JavaScript expertise
-- 🧠 Solving algorithmic problems on LeetCode & NeetCode
-- 🎯 Building production-grade applications with clean code principles
+- 🔍 Better backend architecture and system design understanding
+- 🧠 Stronger TypeScript and scalable application patterns
+- 🚀 Product-focused projects with real-world use cases
+- 📚 Algorithms, engineering fundamentals, and clean code practices
 
 ---
 
-## 📫 Get in Touch
+## Contact
 
-I'm always interested in collaborating on meaningful projects or discussing software engineering. Feel free to reach out!
+Let’s build something useful.
 
-- **Email:** [codedynamics24@gmail.com](mailto:codedynamics24@gmail.com)
-- **LinkedIn:** [linkedin.com/in/simplyincognito](https://linkedin.com/in/simplyincognito)
-- **GitHub:** [github.com/Simply-Incognito](https://github.com/Simply-Incognito)
+- Email: [codedynamics24@gmail.com](mailto:codedynamics24@gmail.com)
+- LinkedIn: [linkedin.com/in/simplyincognito](https://linkedin.com/in/simplyincognito)
+- GitHub: [github.com/Simply-Incognito](https://github.com/Simply-Incognito)
 
 ---
 
 <div align="center">
-  <sub>
-    Built with ❤️ by Simply-Incognito | Last updated: October 2026
-  </sub>
+  <sub>Built with curiosity, code, and a lot of iteration.</sub>
 </div>
